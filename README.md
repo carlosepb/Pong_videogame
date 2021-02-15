@@ -57,7 +57,7 @@ Pong videogame developed on Processing(Java)
 
 Se trata del desarrollo del videojuego PONG para dos jugadores, el jugador de la izquierda se desplazará utilizando las teclas “q” para subir y “a” para bajar (en minúscula siempre) y el jugador de la derecha hará lo propio utilizando la flecha arriba y la flecha abajo. Para pausar el juego o empezar se utilizará la tecla espacio (imagen_1.0).
 
-<p align="center"><img src="images/Pause.JPG" alt="pause" width="500" height="300"></br>imagen_1.0(Pause)</p>
+<p align="center"><img src="images/Pause_pong.JPG" alt="pause" width="500" height="300"></br>imagen_1.0(Pause)</p>
 
 El juego cuenta con dos marcadores que se incrementarán al marcar un gol al jugador contrarío. Al encajar un gol el balón volverá al centro saliendo impulsado hacia el jugador que acaba de marcar un gol (imagen_2.0).
 
@@ -68,6 +68,8 @@ El saque inicial será siempre hacia el jugador de la derecha llevando una traye
 <p align="center"><img src="images/animation_pong.gif" alt="gamePlay" width="500" height="300"></br>imagen_3.0(Saque)</p>
 
 El juego termina cuando uno de los jugadores llega a 10 puntos.
+
+<p align="center"><img src="images/win.gif" alt="gamePlay" width="500" height="300"></br>imagen_3.0(Saque)</p>
 
 ### Herramientas de Desarrollo
 
