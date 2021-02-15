@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Carlos Eduardo Pacichana Bastidas - carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Enlace al proyecto: [https://github.com/carlosepb/Pong_videogame](https://github.com/carlosepb/Pong_videogame)
 
 
 
