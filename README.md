@@ -82,9 +82,7 @@ Para modificar la aplicación necesitarás instalar el entorno de desarrollo Pro
 
 ### Prerrequisitos
 
-* Processing3
-  ```Lo puedes encontrar en el [aquí](https://processing.org/download/)
-  ```
+* Descargar y descomprimir Processing3, lo puedes encontrar [aquí](https://processing.org/download/)
 
 ### Instalación
 
