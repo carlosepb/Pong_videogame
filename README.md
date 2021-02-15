@@ -57,7 +57,16 @@ Pong videogame developed on Processing(Java)
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
-<img src="images/gamePlay.JPG" alt="gamePlay" width="500" height="300">
+Se trata del desarrollo del videojuego PONG para dos jugadores, el jugador de la izquierda se desplazará utilizando las teclas “q” para subir y “a” para bajar (en minúscula siempre) y el jugador de la derecha hará lo propio utilizando la flecha arriba y la flecha abajo. Para pausar el juego o empezar se utilizará la tecla espacio (imagen1.0).
+
+<p align="center"><img src="images/Pause.JPG" alt="gamePlay" width="500" height="300"></br>imagen_1.0(Pause)</p>
+
+El juego cuenta con dos marcadores que se incrementarán al marcar un gol al jugador contrarío. Al encajar un gol el balón volverá al centro saliendo impulsado hacia el jugador que acaba de marcar un gol
+
+El saque inicial será siempre hacia el jugador de la derecha llevando una trayectoria y velocidad aleatoria siendo siempre una que no impida que el jugador pueda devolver la pelota, la cual incrementará su velocidad en cada remate.
+
+El juego termina cuando uno de los jugadores llega a 10 puntos.
+
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
