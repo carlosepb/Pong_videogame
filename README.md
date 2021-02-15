@@ -41,6 +41,7 @@ Pong videogame developed on Processing(Java)
       <ul>
         <li><a href="#prerrequisitos">Prerrequisitos</a></li>
         <li><a href="#instalación">Instalación</a></li>
+        <li><a href="#ejecutar">Ejecutar</a></li>
       </ul>
     </li>
     <li><a href="#hoja-de-ruta">Hoja de Ruta</a></li>
@@ -92,6 +93,16 @@ Para modificar la aplicación necesitarás instalar el entorno de desarrollo Pro
     * Install.
 2.  exportar a un archivo con formato gif animado, es necesario instalar GifAnimation a través https://github.com/extrapixel/gif-animation.
    
+### Ejecutar
+
+1. Release.
+    * Descomprimir rar.
+    * Entrar a la versión correspondiente a nuestro windows.
+    * Lanzar pong.exe.
+2. Proyecto.
+    * Descomprimir rar.
+    * Ejecutar Processin3.
+    * Archivo->Abrir...
 
 <!-- ROADMAP -->
 ## Hoja de Ruta
