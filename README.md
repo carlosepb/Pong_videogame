@@ -16,7 +16,7 @@ Pong videogame developed on Processing(Java)
       <a href="https://github.com/carlosepb/Pong_videogame"><strong>Explorar repositorio»</strong></a>
     <br />
     <br />
-      <a href="https://github.com/othneildrew/Best-README-Template">Ver Demo</a>
+      <a href="https://github.com/carlosepb/Pong_videogame/blob/main/images/animation.gif">Ver Demo</a>
       ·
       <a href="https://github.com/carlosepb/Pong_videogame/issues">Reportar Error</a>
       ·
