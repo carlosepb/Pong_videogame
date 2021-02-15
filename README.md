@@ -121,11 +121,11 @@ Enlace al proyecto: [https://github.com/carlosepb/Pong_videogame](https://github
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
+* [Processing](https://processing.org/)
+* [Freewavesamples](https://freewavesamples.com/)
+* [Gif-animation](https://github.com/extrapixel/gif-animation)
+* [Funprogramming](https://funprogramming.org/)
+* [Text](https://processing.org/reference/text_.html)
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
