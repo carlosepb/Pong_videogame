@@ -39,7 +39,7 @@ Pong videogame developed on Processing(Java)
     <li>
       <a href="#empezando">Empezando</a>
       <ul>
-        <li><a href="#prerequisites">prerrequisito</a></li>
+        <li><a href="#prerrequisitos">Prerrequisitos</a></li>
         <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
@@ -80,17 +80,15 @@ El juego termina cuando uno de los jugadores llega a 10 puntos.
 
 Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation.
 
-### Prerequisites
+### Prerrequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
 * Processing3
-  ```sh
-  npm install npm@latest -g
+  ```Lo puedes encontrar en el [aquí](https://processing.org/download/)
   ```
 
 ### Instalación
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://example.com](https://processing.org/download/)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
