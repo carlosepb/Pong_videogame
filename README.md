@@ -79,7 +79,7 @@ El juego termina cuando uno de los jugadores llega a 10 puntos.
 <!-- GETTING STARTED -->
 ## Empezando
 
-Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation.
+Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quieras ejecutar la versión release no será necesario instalar nada.
 
 ### Prerrequisitos
 
