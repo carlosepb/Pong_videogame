@@ -11,18 +11,18 @@ Pong videogame developed on Processing(Java)
   <h3 align="center">Videojuego Pong</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    ¡Videojuego PONG desarrollado en Processing3!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/carlosepb/Pong_videogame"><strong>Explorar repositorio»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+      <a href="https://github.com/othneildrew/Best-README-Template">Ver Demo</a>
+      ·
+      <a href="https://github.com/carlosepb/Pong_videogame/issues">Reportar Error</a>
+      ·
+      <a href="https://github.com/carlosepb/Pong_videogame/issues">Solicitar Colaboración</a>
+    </p>
   </p>
-</p>
 
 
 
