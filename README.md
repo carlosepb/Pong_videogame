@@ -72,6 +72,21 @@ El juego termina cuando uno de los jugadores llega a 10 puntos.
 
 <p align="center"><img src="images/win.JPG" alt="gamePlay" width="500" height="300"></br>imagen_4.0(Victoria)</p>
 
+## Trabajo Realizado
+
+En la primera pantalla que servirá también como pantalla de pausa veremos los controles generales del juego, esto es así para aprovechar la pausa como menú de instrucciones.
+
+Los elementos en pantalla como las palas o la pelota se han definido utilizando un grupo de variables de tipo entero que definen su posición, tamaño y zonas de colisión.
+
+Para los movimientos de las palas se han utilizado los eventos de tecla pulsada y liberada para evitar la colisión de eventos al definirlos de manera lineal en el bucle principal, lo cual producía que uno de los jugadores pudiese bloquear al otro al no dejar de moverse.
+
+Cada jugador y su marcador aparecerá en un color distinto y cuando alguno a 5 goles vera un mensaje de victoria con su nombre y color.
+
+Se han añadido 3 sonidos distintos para los distintos puntos de colisión de la pelota (campo, raqueta o línea de gol).
+
+La grabación de gif está disponible pero para una ejecución mas optima se encuentra comentada en el código, en caso de querer usarla descomentar las líneas 43, 44, 222 y 276. Para parar la grabación haremos un clic sobre la pantalla ya que esta se encuentra en un evento de ratón pulsado.
+
+
 ## Herramientas de Desarrollo
 
 * [Processing3](https://processing.org/download/)
