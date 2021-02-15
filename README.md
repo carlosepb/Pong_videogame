@@ -33,14 +33,14 @@ Pong videogame developed on Processing(Java)
     <li>
       <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#built-with">Herramientas de Desarrollo</a></li>
+        <li><a href="#herramientas-de-desarrollo">Herramientas de Desarrollo</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Empezando</a>
+      <a href="#empezando">Empezando</a>
       <ul>
         <li><a href="#prerequisites">prerrequisito</a></li>
-        <li><a href="#installation">Instalación</a></li>
+        <li><a href="#instalacion">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#usage">Uso</a></li>
@@ -71,28 +71,24 @@ El saque inicial será siempre hacia el jugador de la derecha llevando una traye
 
 El juego termina cuando uno de los jugadores llega a 10 puntos.
 
-### Built With
+### Herramientas de Desarrollo
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Processing3](https://processing.org/download/)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Empezando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Para poder modificar modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Processing3
   ```sh
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalación
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
