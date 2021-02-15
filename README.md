@@ -85,31 +85,24 @@ Para modificar la aplicación necesitarás instalar el entorno de desarrollo Pro
 
 ### Instalación
 
-1. Get a free API Key at [https://example.com](https://processing.org/download/)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Instalar previamente la biblioteca de sonido de la Processing Foundation
+    * Herramientas->Añadir herramientas
+    * Buscar Sound en la pestaña Libraries.
+    * Install
+2.  exportar a un archivo con formato gif animado, es necesario instalar GifAnimation a través https://github.com/extrapixel/gif-animation
+   
 
 <!-- ROADMAP -->
 ## Hoja de Ruta
 
-Planes para la versión 0.2
+Planes para la versión 0.2:
 
 * Mejorar sistema de colisiones de la pelota con las raquetas.
 * Añadir celebración de gol al anotar un gol.
 * Añadir mensaje de celebración al llegar un jugador a los 10 goles.
 * Mejoras de estabilidad.
 
-Planes para la versión 0.3
+Planes para la versión 0.3:
 
 * Ajustar tamaño de pelota.
 * Cambiar colores de los jugadores.
