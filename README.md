@@ -102,15 +102,23 @@ Para modificar la aplicación necesitarás instalar el entorno de desarrollo Pro
 <!-- ROADMAP -->
 ## Hoja de Ruta
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Planes para la versión 0.2
 
+* Mejorar sistema de colisiones de la pelota con las raquetas.
+* Añadir celebración de gol al anotar un gol.
+* Añadir mensaje de celebración al llegar un jugador a los 10 goles.
+* Mejoras de estabilidad.
+
+Planes para la versión 0.3
+
+* Ajustar tamaño de pelota.
+* Cambiar colores de los jugadores.
+* Añadir nuevas pistas de juego.
 
 <!-- LICENSE -->
 ## Licencia
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+Software completamente libre para copiar o distribuir.
 
 <!-- CONTACT -->
 ## Contacto
@@ -118,8 +126,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Carlos Eduardo Pacichana Bastidas - carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
 
 Enlace al proyecto: [https://github.com/carlosepb/Pong_videogame](https://github.com/carlosepb/Pong_videogame)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
