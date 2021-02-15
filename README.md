@@ -44,7 +44,6 @@ Pong videogame developed on Processing(Java)
       </ul>
     </li>
     <li><a href="#hoja-de-ruta">Hoja de Ruta</a></li>
-    <li><a href="#contributing">Contribuir</a></li>
     <li><a href="#licencia">Licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
     <li><a href="#agradecimientos">Agradecimientos</a></li>
