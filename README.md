@@ -40,7 +40,7 @@ Pong videogame developed on Processing(Java)
       <a href="#empezando">Empezando</a>
       <ul>
         <li><a href="#prerequisites">prerrequisito</a></li>
-        <li><a href="#instalacion">Instalación</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#usage">Uso</a></li>
@@ -78,7 +78,7 @@ El juego termina cuando uno de los jugadores llega a 10 puntos.
 <!-- GETTING STARTED -->
 ## Empezando
 
-Para poder modificar modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation.
+Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation.
 
 ### Prerequisites
 
