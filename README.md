@@ -16,7 +16,7 @@ Pong videogame developed on Processing(Java)
       <a href="https://github.com/carlosepb/Pong_videogame"><strong>Explorar repositorio»</strong></a>
     <br />
     <br />
-      <a href="https://github.com/carlosepb/Pong_videogame/blob/main/images/animation.gif">Ver Demo</a>
+      <a href="https://github.com/carlosepb/Pong_videogame/blob/main/images/animation_pong.gif">Ver Demo</a>
       ·
       <a href="https://github.com/carlosepb/Pong_videogame/issues">Reportar Error</a>
       ·
@@ -65,7 +65,7 @@ El juego cuenta con dos marcadores que se incrementarán al marcar un gol al jug
 
 El saque inicial será siempre hacia el jugador de la derecha llevando una trayectoria y velocidad aleatoria siendo siempre una que no impida que el jugador pueda devolver la pelota, la cual incrementará su velocidad en cada remate (imagen_3.0).
 
-<p align="center"><img src="images/animation.gif" alt="gamePlay" width="500" height="300"></br>imagen_3.0(Saque)</p>
+<p align="center"><img src="images/animation_pong.gif" alt="gamePlay" width="500" height="300"></br>imagen_3.0(Saque)</p>
 
 El juego termina cuando uno de los jugadores llega a 10 puntos.
 
