@@ -55,9 +55,9 @@ Pong videogame developed on Processing(Java)
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el Proyecto
 
-<img src="images/gamePLay.png" alt="gamePlay" width="500" height="300">
+<img src="images/gamePlay.JPG" alt="gamePlay" width="500" height="300">
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
