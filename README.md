@@ -4,7 +4,7 @@ Pong videogame developed on Processing(Java)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/carlosepb/Pong_videogame">
     <img src="images/logo.png" alt="Logo" width="200" height="70">
   </a>
 
