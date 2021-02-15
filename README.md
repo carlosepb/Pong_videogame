@@ -82,15 +82,15 @@ Para modificar la aplicación necesitarás instalar el entorno de desarrollo Pro
 
 ### Prerrequisitos
 
-* Descargar y descomprimir Processing3, lo puedes encontrar [aquí](https://processing.org/download/)
+* Descargar y descomprimir Processing3, lo puedes encontrar [aquí](https://processing.org/download/).
 
 ### Instalación
 
-1. Instalar previamente la biblioteca de sonido de la Processing Foundation
-    * Herramientas->Añadir herramientas
+1. Instalar previamente la biblioteca de sonido de la Processing Foundation.
+    * Herramientas->Añadir herramientas.
     * Buscar Sound en la pestaña Libraries.
-    * Install
-2.  exportar a un archivo con formato gif animado, es necesario instalar GifAnimation a través https://github.com/extrapixel/gif-animation
+    * Install.
+2.  exportar a un archivo con formato gif animado, es necesario instalar GifAnimation a través https://github.com/extrapixel/gif-animation.
    
 
 <!-- ROADMAP -->
@@ -100,7 +100,7 @@ Planes para la versión 0.2:
 
 * Mejorar sistema de colisiones de la pelota con las raquetas.
 * Añadir celebración de gol al anotar un gol.
-* Añadir mensaje de celebración al llegar un jugador a los 10 goles.
+* Añadir mensaje dinámico de celebración al llegar un jugador a los 10 goles.
 * Mejoras de estabilidad.
 
 Planes para la versión 0.3:
