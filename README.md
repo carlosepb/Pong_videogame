@@ -134,7 +134,7 @@ Planes para la versión 0.2:
 
 * Mejorar sistema de colisiones de la pelota con las raquetas.
 * Añadir celebración de gol al anotar un gol.
-* Añadir mensaje dinámico de celebración al llegar un jugador a los 10 goles.
+* Añadir mensaje dinámico de celebración al llegar un jugador a los 5 goles.
 * Mejoras de estabilidad.
 
 Planes para la versión 0.3:
