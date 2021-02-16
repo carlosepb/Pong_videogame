@@ -59,33 +59,38 @@ Pong videogame developed on Processing(Java)
 Se trata del desarrollo del videojuego PONG para dos jugadores, el jugador de la izquierda se desplazará utilizando las teclas “q” para subir y “a” para bajar (en minúscula siempre) y el jugador de la derecha hará lo propio utilizando la flecha arriba y la flecha abajo. Para pausar el juego o empezar se utilizará la tecla espacio (imagen_1.0).
 </p>
 <p align="center"><img src="images/Pause_pong.JPG" alt="pause" width="500" height="300"></br>imagen_1.0(Pause)</p>
-
+<p align="justify">
 El juego cuenta con dos marcadores que se incrementarán al marcar un gol al jugador contrarío. Al encajar un gol el balón volverá al centro saliendo impulsado hacia el jugador que acaba de marcar un gol (imagen_2.0).
-
+</p>
 <p align="center"><img src="images/gamePlay.JPG" alt="gamePlay" width="500" height="300"></br>imagen_2.0(Jugando)</p>
-
+<p align="justify">
 El saque inicial será siempre hacia el jugador de la derecha llevando una trayectoria y velocidad aleatoria siendo siempre una que no impida que el jugador pueda devolver la pelota, la cual incrementará su velocidad en cada remate (imagen_3.0).
-
+</p>
 <p align="center"><img src="images/animation_pong.gif" alt="gamePlay" width="500" height="300"></br>imagen_3.0(Saque)</p>
-
+<p align="justify">
 El juego termina cuando uno de los jugadores llega a 10 puntos.
-
+</p>
 <p align="center"><img src="images/win.JPG" alt="gamePlay" width="500" height="300"></br>imagen_4.0(Victoria)</p>
 
 ## Trabajo Realizado
-
+<p align="justify">
 En la primera pantalla que servirá también como pantalla de pausa veremos los controles generales del juego, esto es así para aprovechar la pausa como menú de instrucciones.
-
+</p>
+<p align="justify">
 Los elementos en pantalla como las palas o la pelota se han definido utilizando un grupo de variables de tipo entero que definen su posición, tamaño y zonas de colisión.
-
+</p>
+<p align="justify">
 Para los movimientos de las palas se han utilizado los eventos de tecla pulsada y liberada para evitar la colisión de eventos al definirlos de manera lineal en el bucle principal, lo cual producía que uno de los jugadores pudiese bloquear al otro al no dejar de moverse.
-
+</p>
+<p align="justify">
 Cada jugador y su marcador aparecerá en un color distinto y cuando alguno a 5 goles vera un mensaje de victoria con su nombre y color.
-
+</p>
+<p align="justify">
 Se han añadido 3 sonidos distintos para los distintos puntos de colisión de la pelota (campo, raqueta o línea de gol).
-
+</p>
+<p align="justify">
 La grabación de gif está disponible pero para una ejecución mas optima se encuentra comentada en el código, en caso de querer usarla descomentar las líneas 43, 44, 222 y 276. Para parar la grabación haremos un clic sobre la pantalla ya que esta se encuentra en un evento de ratón pulsado.
-
+</p>
 
 ## Herramientas de Desarrollo
 
@@ -94,7 +99,7 @@ La grabación de gif está disponible pero para una ejecución mas optima se enc
 <!-- GETTING STARTED -->
 ## Empezando
 
-Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quieras ejecutar la versión release no será necesario instalar nada.
+Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quieras ejecutar la versión release no será necesario instalar nada y puede pasar directamente al paso Ejecutar->Release.
 
 ### Prerrequisitos
 
