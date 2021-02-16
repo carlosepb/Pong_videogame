@@ -110,7 +110,7 @@ Para modificar la aplicación necesitará instalar el entorno de desarrollo Proc
 
 ### Instalación
 
-1. Instalar previamente la biblioteca de sonido de la Processing Foundation.
+1. Instalar la biblioteca de sonido de la Processing Foundation desde el IDE Processing3.
     * Herramientas->Añadir herramientas.
     * Buscar Sound en la pestaña Libraries.
     * Install.
