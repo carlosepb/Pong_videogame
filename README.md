@@ -152,6 +152,7 @@ Software completamente libre para copiar o distribuir.
 ## Contacto
 
 Autor: Carlos Eduardo Pacichana Bastidas
+
 Email: carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
 
 Enlace al proyecto: [https://github.com/carlosepb/Pong_videogame](https://github.com/carlosepb/Pong_videogame)
