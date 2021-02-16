@@ -69,7 +69,7 @@ El saque inicial será siempre hacia el jugador de la derecha llevando una traye
 </p>
 <p align="center"><img src="images/animation_pong.gif" alt="gamePlay" width="500" height="300"></br>imagen_3.0(Saque)</p>
 <p align="justify">
-El juego termina cuando uno de los jugadores llega a 10 puntos.
+El juego termina cuando uno de los jugadores llega a 5 puntos.
 </p>
 <p align="center"><img src="images/win.JPG" alt="gamePlay" width="500" height="300"></br>imagen_4.0(Victoria)</p>
 
