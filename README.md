@@ -98,9 +98,11 @@ La grabación de gif está disponible pero para una ejecución mas optima se enc
 
 <!-- GETTING STARTED -->
 ## Empezando
+
 <p align="justify">
 Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quieras ejecutar la versión release no será necesario instalar nada y puede pasar directamente al paso Ejecutar->Release.
 </p>
+
 ### Prerrequisitos
 
 * Descargar y descomprimir Processing3, lo puedes encontrar [aquí](https://processing.org/download/).
