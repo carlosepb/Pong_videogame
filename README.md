@@ -98,9 +98,9 @@ La grabación de gif está disponible pero para una ejecución mas optima se enc
 
 <!-- GETTING STARTED -->
 ## Empezando
-
+<p align="justify">
 Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quieras ejecutar la versión release no será necesario instalar nada y puede pasar directamente al paso Ejecutar->Release.
-
+</p>
 ### Prerrequisitos
 
 * Descargar y descomprimir Processing3, lo puedes encontrar [aquí](https://processing.org/download/).
@@ -111,7 +111,7 @@ Para modificar la aplicación necesitarás instalar el entorno de desarrollo Pro
     * Herramientas->Añadir herramientas.
     * Buscar Sound en la pestaña Libraries.
     * Install.
-2.  exportar a un archivo con formato gif animado, es necesario instalar GifAnimation a través https://github.com/extrapixel/gif-animation.
+2. Para exportar a un archivo con formato gif animado es necesario instalar GifAnimation, lo puede encontrar [aquí](https://github.com/extrapixel/gif-animation).
    
 ### Ejecutar
 
