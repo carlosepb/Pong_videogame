@@ -84,7 +84,7 @@ Los elementos en pantalla como las palas o la pelota se han definido utilizando 
 Para los movimientos de las palas se han utilizado los eventos de tecla pulsada y liberada para evitar la colisión de eventos al definirlos de manera lineal en el bucle principal, lo cual producía que uno de los jugadores pudiese bloquear al otro al no dejar de moverse.
 </p>
 <p align="justify">
-Cada jugador y su marcador aparecerá en un color distinto y cuando alguno a 5 goles vera un mensaje de victoria con su nombre y color.
+Cada jugador y su marcador aparecerá en un color distinto y cuando alguno llega a 5 goles vera un mensaje de victoria con su nombre y color.
 </p>
 <p align="justify">
 Se han añadido 3 sonidos distintos para los distintos puntos de colisión de la pelota (campo, raqueta o línea de gol).
@@ -101,7 +101,7 @@ La grabación de gif está disponible pero para una ejecución mas optima se enc
 ## Empezando
 
 <p align="justify">
-Para modificar la aplicación necesitarás instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quieras ejecutar la versión release no será necesario instalar nada y puede pasar directamente al paso Ejecutar->Release.
+Para modificar la aplicación necesitará instalar el entorno de desarrollo Processing3 y las herramientas Sound y GifAnimation. En caso de que solo quiera ejecutar la versión release no será necesario que instale nada y puede pasar directamente al paso Ejecutar->Release.
 </p>
 
 ### Prerrequisitos
@@ -151,7 +151,8 @@ Software completamente libre para copiar o distribuir.
 <!-- CONTACT -->
 ## Contacto
 
-Carlos Eduardo Pacichana Bastidas - carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
+Autor: Carlos Eduardo Pacichana Bastidas
+Email: carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
 
 Enlace al proyecto: [https://github.com/carlosepb/Pong_videogame](https://github.com/carlosepb/Pong_videogame)
 
